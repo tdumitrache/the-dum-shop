@@ -1,0 +1,36 @@
+.product-item img {
+    max-width: 250px;
+    max-height: 250px;
+    border-radius: 15px;
+}
+
+.product-item p,
+.product-item a {
+    color: #333;
+    border: none;
+    text-decoration: none;
+}
+
+.product-item a:hover {
+    text-decoration: underline #333;
+}
+
+.product-item {
+    padding: 1.8rem 1rem;
+    cursor: pointer;
+    color: #333;
+}
+
+.product-item:hover {
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+}
+
+.product-item .heart-outline-icon,
+.product-item .heart-full-icon {
+    color: red;
+    cursor: pointer;
+    position: relative;
+    left: 45%;
+    bottom: 97%;
+}

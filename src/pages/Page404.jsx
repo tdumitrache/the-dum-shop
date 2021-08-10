@@ -2,8 +2,8 @@ import React from 'react';
 
 function Page404() {
     return(
-        <div>
-            <h1>404</h1>
+        <div className="d-flex align-items-center justify-content-center min-vh-100">
+            <h1 className="fw-bold">Oops! This page doesn't exist...</h1>
         </div>
     );
 }

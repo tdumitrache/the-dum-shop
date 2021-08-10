@@ -1,0 +1,25 @@
+footer svg {
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    color: #333;
+    text-decoration: underline;
+}
+
+@media (max-width: 767px) {
+    footer > div {
+        flex-direction: column;
+    }
+
+    footer .footer-group{
+        margin-bottom: 1.5rem;
+    }
+}
