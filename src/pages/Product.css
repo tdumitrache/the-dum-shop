@@ -1,0 +1,13 @@
+@media (max-width: 767px) {
+    .price-button-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 1rem 0;
+    }
+
+    .pb-5 {
+        margin-top: 2rem;
+    }
+}

@@ -1,0 +1,25 @@
+.home-category h2,
+.home-category p,
+.home-category a {
+    color: #333;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+.home-category img {
+    border-radius: 15px;
+}
+
+.home-category h2 {
+    margin-top: .5rem;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 1100px !important;
+}
+
+.home-category :hover {
+    text-decoration: underline #333;
+}
