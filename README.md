@@ -1,11 +1,5 @@
-## JavaScript Advanced - Curs 5
+## Click the link below to see my shop.
 
-Pentru a rula aceasta etapa (in linie de comanda):
+https://the-dum-shop.vercel.app/
 
-#### 1. `git clone https://github.com/razvancir96/react-curs05.git`
 
-#### 2. `cd react-curs05`
-
-#### 3. `npm install` (posibil sa dureze)
-
-#### 4. `npm start`
